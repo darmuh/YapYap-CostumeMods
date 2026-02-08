@@ -1,14 +1,14 @@
-# Costume Camos!
-![Pics](https://github.com/darmuh/YapYap-CostumeMods/blob/master/Camos/pictures.png?raw=true)
+# Costume Camos Costume Pack
+![Pics](https://github.com/darmuh/YapYap-CostumeMods/blob/master/Camos/pictures.png?raw=true)  
 
 ## Overview
-This Costume texture pack adds 6 new Camo-Style Costume textures to choose from! 
-	- Blue Tiger Camo
-	- Classic Camo
-	- Desert Camo
-	- Digital Camo
-	- Red Tiger Camo
-	- Woodland Camo
+This Costume texture pack adds 6 new Camo-Style Costume textures to choose from!  
+	- Blue Tiger Camo  
+	- Classic Camo  
+	- Desert Camo  
+	- Digital Camo  
+	- Red Tiger Camo  
+	- Woodland Camo  
 
 ## How to use
 Install this, and go into the game to change your colors and you will see the new costumes installed!
@@ -23,3 +23,4 @@ This pack uses the following library:
 
 ## Credits
 Made by **darmuh**
+Original Camos from https://snowycocoon.itch.io/camouflage-texture-pack-1 (Creative Commons CC0)
