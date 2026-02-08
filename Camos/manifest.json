@@ -1,0 +1,9 @@
+{
+  "name": "Camos Costume Pack",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "This Costume texture pack adds 6 new Camo-Style Costume textures to choose from!  ",
+  "dependencies": [
+    "Omniscye-More_Colors-1.0.4"
+  ]
+}

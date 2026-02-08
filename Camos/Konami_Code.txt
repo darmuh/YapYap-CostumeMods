@@ -1,0 +1,26 @@
+Author: darmuh
+Name: Blue Tiger Camo
+English-Local: Blue Tiger Camo
+FileName: blue tiger.png
+
+Name: Classic Camo
+English-Local: Classic Camo
+FileName: classic.png
+
+Name: Desert Camo
+English-Local: Desert Camo
+FileName: desert.png
+
+Name: Digital Camo
+English-Local: Digital Camo
+FileName: digital.png
+
+Name: Red Tiger Camo
+English-Local: Red Tiger Camo
+FileName: redtiger.png
+
+Name: Woodland Camo
+English-Local: Woodland Camo
+FileName: woodland.png
+
+End!
