@@ -1,5 +1,5 @@
 # Costume Camos!
-![Pics](link here)
+![Pics](https://github.com/darmuh/YapYap-CostumeMods/blob/master/Camos/pictures.png?raw=true)
 
 ## Overview
 This Costume texture pack adds 6 new Camo-Style Costume textures to choose from! 
